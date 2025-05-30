@@ -100,6 +100,7 @@ public class AddEmployeeSteps extends CommonMethods {
 
             WebElement addEmpPimOption = driver.findElement(By.id("menu_pim_addEmployee"));
             addEmpPimOption.click();
+
         }
     }
 
